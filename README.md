@@ -2,4 +2,8 @@
 
 mi primer repositorio 
 
-i love coffee, travel, summer and handball
+i love:
+coffe☕️
+travel✈️
+summer 🌞
+handball🤾‍♀️
